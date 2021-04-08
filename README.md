@@ -1,4 +1,4 @@
-# BookStore 
+# calendar 
 >這是一個使用vue 2 + vuetifyjs 開發的小型專案
 
 ## 1.  如何執行這個專案：
